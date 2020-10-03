@@ -1,4 +1,4 @@
-# IBM-Data-Science-Capstone-Project
+# IBM-Machine-Learning-Classification-Project
 
 Data Science Project
 
